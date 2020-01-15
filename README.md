@@ -1,2 +1,2 @@
-# tech
-Creating mobile app
+# Tech
+Creating mobile app, programming practices
